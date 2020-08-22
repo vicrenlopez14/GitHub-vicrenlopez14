@@ -26796,7 +26796,7 @@ q=P.aV(0,700,0)
 p=t.t
 return M.mB(C.lA,B.oP(new L.le(o),H.a([n,new G.hp(G.rz(H.a([T.lE(M.b1(o,T.fv(H.a([new T.dc(2,C.aW,s,o),new T.dc(1,C.aW,M.b1(C.h6,B.Z6(U.jM("https://i.imgur.com/nObYWXs.png"),r,q),o,o,o,180,o,o,o),o)],p),C.b2,C.w,C.aT),C.iP,o,o,300,o,o,o),o,1),T.c2(H.a([new T.c5(new V.a1(72,15,0,60),L.bM("Contenidos",o,B.a_W(C.iP,40),o),o),T.c2($.a4K(),C.D,C.w)],p),C.b2,C.w)],p)),o)],p)))}}
 E.Ep.prototype={
-A:function(a){var s=null,r=T.a0X(M.b1(C.U,U.jM("https://i.imgur.com/p7DnK63.png"),s,s,s,s,s,s,s)),q=F.bP(a,!1).a,p=S.d7(s,s,s,C.lA,s,s,C.M),o=t.t
+A:function(a){var s=null,r=T.a0X(M.b1(C.U,U.jM("assets/assets/fuerzas/conceptualfuerzas.png"),s,s,s,s,s,s,s)),q=F.bP(a,!1).a,p=S.d7(s,s,s,C.lA,s,s,C.M),o=t.t
 return M.b1(C.U,T.hs(C.c4,H.a([r,new T.cj(C.h7,s,s,M.b1(s,M.b1(s,T.c2(H.a([L.bM("Mapa conceptual",s,B.a_W(C.j,s),s),L.bM("Mapa conceptual acerca de los tipos de fuerzas",s,B.a3Z(C.j,s,C.hi),s)],o),C.b2,C.w),s,s,s,s,s,new V.a1(15,10,0,0),s),s,s,p,150,s,s,q.a/1.8),s)],o),C.bF),new P.I(4290493371),s,s,700,s,s,s)}}
 X.k0.prototype={
 A:function(a){var s=P.aV(0,0,2)
