@@ -26726,7 +26726,7 @@ this.bD()}}
 G.l7.prototype={}
 F.z7.prototype={
 A:function(a){var s=null,r=X.a__(C.P.h(0,700),s,s,s,"roboto",C.j,s)
-return new S.q9(F.aaI(a),"/fuerzaHomepage","El blog ;)",r,s)}}
+return new S.q9(F.aaI(a),"/","El blog ;)",r,s)}}
 F.XG.prototype={
 $1:function(a){return new Q.mI(null)},
 $S:81}
