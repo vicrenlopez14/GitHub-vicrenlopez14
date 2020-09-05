@@ -3,12 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/assets/monza.jpg": "5bec69e68f62edcd19aa4173be2f97cd",
+  "assets/assets/videorodas.png": "64472dee4e42be638d1024e5e6c921b2",
+"assets/assets/monza.jpg": "5bec69e68f62edcd19aa4173be2f97cd",
 "assets/assets/bitacora.png": "f3b6d53687418cf4e2821660648be3c2",
+"assets/assets/videofranco.png": "c2256e40d49116f9ba86f6e4f310f186",
 "assets/assets/fondofinal.jpg": "145c4445bf6dcf11df2153e85de1f43e",
 "assets/assets/strenj.png": "fc1107b37f4c86a2c1edf75ac517fae7",
 "assets/assets/armonico.jpg": "4ebb6b2c08fdb3e4cfeb7e3c15282853",
+"assets/assets/infografianewton.png": "2e5eb17650e35997833d2cdb5281ea81",
 "assets/assets/movement.png": "ccbd7689ad119d08a4df7ade460eef9b",
+"assets/assets/videodaniel.png": "1d7b26c5b51447b7628603075eec92bf",
+"assets/assets/infografianewton.jpg": "2e0e81705250a780a9161cc17d309185",
 "assets/assets/fuerzas/conceptualfuerzas.png": "7e7a61d27af8a628b5b56ec28e1d8e2e",
 "assets/assets/fuerzas/headerImage.png": "a68be39354373e29d00c1d9b4bbdf358",
 "assets/assets/circularuniforme.jpg": "a4390226c7bd3ae34595ab6b536bc557",
@@ -16,6 +21,8 @@ const RESOURCES = {
 "assets/assets/pendulo.jpg": "0e1b6d1037166caae18237502f66622f",
 "assets/assets/rectilineo.jpg": "5133a9e87c55acb4295e5cac5646a8bc",
 "assets/assets/conceptual.png": "a78e02633c1e04637b2f297d1b356a11",
+"assets/assets/manzana.png": "24a221555d117b71b66aaf1188a41b43",
+"assets/assets/curved-arrow.png": "ea0c98db0fbb2ba3308150c668c84909",
 "assets/assets/cronograma.png": "51f452492c9322ea24915d1e9275b2cb",
 "assets/assets/fonts/staatliches/Staatliches-Regular.ttf": "d5746e3b20453d6cee99ab27a0bdf949",
 "assets/assets/fonts/roboto/Roboto-Light.ttf": "88823c2015ffd5fa89d567e17297a137",
@@ -28,16 +35,18 @@ const RESOURCES = {
 "assets/assets/fonts/lato/Lato-Regular.ttf": "2d36b1a925432bae7f3c53a340868c6e",
 "assets/assets/fonts/mukta/Mukta-Regular.ttf": "6f5fbe33e286ecbaee1a2933d0de25a0",
 "assets/assets/fonts/mukta/Mukta-Bold.ttf": "c05522505c7067b1e97910b5a67a26be",
+"assets/assets/newton.png": "8fe17082abd33d86985274a24b8c04e9",
 "assets/assets/parabolica.jpg": "f7f0d4c7cb161d9255dbec4c5f6c96bf",
 "assets/assets/uniforme.jpg": "ee91ca0dd11ae386af99ae44f8eab03c",
-"assets/NOTICES": "6ea21d83f50934d7df5c9f052d88e6c8",
-"assets/FontManifest.json": "f468b2182a32905f270fd5df51d6cb04",
+"assets/NOTICES": "a4a9e30cd308bec3468e27568134096c",
+"assets/FontManifest.json": "381aeeca74c856af46d5827b90be5825",
+"assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/AssetManifest.json": "1e62aefcbd72699ebebf253cb395f5ed",
+"assets/AssetManifest.json": "09002ae16e57941335437dc2b3cb56d2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"index.html": "3add60397f8b5921c3394be17570befc",
-"/": "3add60397f8b5921c3394be17570befc",
-"main.dart.js": "0b33b1b1169afd96fc48734d9754c18f",
+"index.html": "f04970d96bbe452b14bb574d025051d7",
+"/": "f04970d96bbe452b14bb574d025051d7",
+"main.dart.js": "b551597d8537158b0c0b923c4c9be1ba",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "b110bfc489bfa74ed3d5b2b62ede35ef",
@@ -56,14 +65,14 @@ const RESOURCES = {
 ".git/hooks/update.sample": "7bf1fcc5f411e5ad68c59b68661660ed",
 ".git/hooks/pre-rebase.sample": "56e45f2bcbc8226d2b4200f7c46371bf",
 ".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
-".git/COMMIT_EDITMSG": "4c0b0ea95dfa0d14f5945c5b4d500f6a",
-".git/refs/remotes/origin/master": "387f4c4030d159b061030f9448e9bd6f",
-".git/refs/heads/master": "387f4c4030d159b061030f9448e9bd6f",
-".git/index": "ce16c2890ac397951d581537a7c07ae2",
+".git/COMMIT_EDITMSG": "23fb117d6a4cf488794a3f593d431603",
+".git/refs/remotes/origin/master": "94e43a5d03ca313ffa8952fe10dd72cb",
+".git/refs/heads/master": "94e43a5d03ca313ffa8952fe10dd72cb",
+".git/index": "a329238215ddcff5314e28be0ab1053f",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
-".git/logs/HEAD": "52a7262d4125ec1d7d6417da8088cc10",
-".git/logs/refs/remotes/origin/master": "28b6ac7005eca84311fc73e4bcf6ecd2",
-".git/logs/refs/heads/master": "52a7262d4125ec1d7d6417da8088cc10",
+".git/logs/HEAD": "704e3fbe1bac1c5a510b46eb7d5e90a4",
+".git/logs/refs/remotes/origin/master": "0b5d0892da8f299feba831df38f9c7ec",
+".git/logs/refs/heads/master": "704e3fbe1bac1c5a510b46eb7d5e90a4",
 ".git/config": "492d74cd96b92fe3f1f59826c0695461",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
 ".git/ORIG_HEAD": "7807189a743a8dfd956afe5b0c51884c",
@@ -81,6 +90,7 @@ const RESOURCES = {
 ".git/objects/15/95d1bb1e19336666b013ba8c22eac018125d3c": "5f3782570f05fbbd7506589d8f1ac86a",
 ".git/objects/d2/66c224d759457e6aab15af267e43a60d812b1e": "e88d4e4c2becdc23745c1a681da1d591",
 ".git/objects/13/b39713ea875195c5a6566e0cec20e58bf6d908": "954bde9472a1b697a951765f43a279f2",
+".git/objects/03/10174bfd69c0e0c3388063a58c8178f0000282": "2782c9fc27eed65aa45bf912a9bbac66",
 ".git/objects/42/2d70be6ca32c1dcf6c3e45e6fdb68d5e181eb0": "3906a6820e357ec65ec8683102f78f64",
 ".git/objects/42/e90a1d78c48e27140accaaa91433516ec2ea02": "91e05e9eda08488a52961c3d1faefa33",
 ".git/objects/9c/1c1dfa60c38a841b154fc35dc4bb370d818b59": "fdb10b5e77b427e945b7bc2b7a3ccc3f",
@@ -89,8 +99,10 @@ const RESOURCES = {
 ".git/objects/3a/134aa85e5b297a4eea43fa351aea87386307d0": "742a3694712872d32c04c9a73e8d435a",
 ".git/objects/53/4690feea87874942512f313907ecbd33d5ca14": "414113fe781d50153c3f115b1549c7a7",
 ".git/objects/ce/eb953090c156f92dbdfad076fd795daa7f58cb": "04a32a9f03d137b901f265c6e0f37c2a",
+".git/objects/2d/0eab740517b581285bffb3e35838538f8593c3": "651399bff0fd641727b2350817e0d147",
 ".git/objects/c0/a303108bb65cda28cace9466c20ebcb43ed3ed": "f44685f9d31608e8288b8dcf6d06f7f5",
 ".git/objects/ec/14eb9666793730fa96759f78a691111ec8f372": "cffa32c3f5d2335580765cb01011fed1",
+".git/objects/cd/22eb27313df5aea5031a944f4f89b31d41d6ad": "2f4526fc51d4d04eda7749de027dcef3",
 ".git/objects/3b/26fa6a49dd7217dfd4a45dcb7a9f9ddc7718da": "8df713dc48c4a5e93ce6878ec0498b4f",
 ".git/objects/3b/643ab146bc6327a2245b6f702bf9bf421dd4e6": "e1f257cb29e44d8dad163788d37ce8a4",
 ".git/objects/3b/101d17230b84261a6bfe8b491e75210b5d7457": "2a31a253137d0e81a309bb93ae9048fa",
@@ -105,8 +117,10 @@ const RESOURCES = {
 ".git/objects/51/235b2df53d6d99cfca7dbf49c2e3921a8a0e1d": "fdb996bf1cdb50daa7a481b5a82587a8",
 ".git/objects/f5/02b439f41e1acdc6715431f86ee9bd93752280": "f9584aa1ae686d6509013dc0ccf64dc5",
 ".git/objects/01/eba221856974ba9ba502efbe9e893a19e9f51f": "937602bcd4222f2a5c446285a1836471",
+".git/objects/7a/c1a5a5bae6fb0fa03a35690b3113031a9ba32c": "43c45e534eff7cb83ea1ed829f0454c3",
 ".git/objects/7a/25afcf1b76d1164748b08cb952af6a4b24d5d8": "ba0278b44ac6b38a2f4bddc15aa6e9e7",
 ".git/objects/ff/21ede72910591a479b89871445e1dbe51711ab": "360a50fefe3a1691f3e8694fc3ccebe3",
+".git/objects/12/5220aee2d29ffe09b489edafea419297889a69": "db88bcb8e065204de4fda6e32aa6042e",
 ".git/objects/08/3b45ef9a1f930c3ceb8640df0429d5b6db36c1": "55a9521b0a55a86db545c838c06e0aa8",
 ".git/objects/28/763a033d107c92a358568d613c098d743ab574": "0499eddbb6ddcb1fa08392f5468ca015",
 ".git/objects/b9/3ea2154e02b408829c2d5fc55bf795cdc8d174": "1a47d662abb39ced77d3c7d25f9ff9da",
@@ -193,8 +207,8 @@ const CORE = [
 self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
-      // Provide a no-cache param to ensure the latest version is downloaded.
-      return cache.addAll(CORE.map((value) => new Request(value, {'cache': 'no-cache'})));
+      // Provide a 'reload' param to ensure the latest version is downloaded.
+      return cache.addAll(CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
@@ -277,7 +291,7 @@ self.addEventListener("fetch", (event) => {
         // Either respond with the cached resource, or perform a fetch and
         // lazily populate the cache. Ensure the resources are not cached
         // by the browser for longer than the service worker expects.
-        var modifiedRequest = new Request(event.request, {'cache': 'no-cache'});
+        var modifiedRequest = new Request(event.request, {'cache': 'reload'});
         return response || fetch(modifiedRequest).then((response) => {
           cache.put(event.request, response.clone());
           return response;
