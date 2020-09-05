@@ -28550,7 +28550,7 @@ this.bC()}}
 G.ly.prototype={}
 F.zm.prototype={
 A:function(a,b){var s=null,r=X.a0P(C.N.h(0,700),s,s,s,"roboto",C.j,s)
-return new S.qt(F.adC(b),"/newtonHomepage","El blog ;)",r,s)}}
+return new S.qt(F.adC(b),"/","El blog ;)",r,s)}}
 F.Zo.prototype={
 $1:function(a){return new Q.n9(null)},
 $S:130}
